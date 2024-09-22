@@ -32,10 +32,10 @@ The structure of **DDRNet** (the name `DDR` stands for **D**ense **D**istortion 
 </p>
 <br>
 
-## :exclamation: Notice
+## Notice :exclamation:
 Due to potential business cooperation, public access to this repository is restricted. Please email us to request permission if code is needed.
 
-## :bell: News
+## News :bell:
 - **[Septs. 22 2024]** Public access to this repository is restricted.
 - **[May 23 2024]** Code is coming.
 
