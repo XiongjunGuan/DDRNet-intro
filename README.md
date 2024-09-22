@@ -33,7 +33,11 @@ The structure of **DDRNet** (the name `DDR` stands for **D**ense **D**istortion 
 <br>
 
 ## Notice :exclamation:
-Due to potential business cooperation, public access to this repository is restricted. Please email us to request permission if code is needed.
+Due to potential business cooperation, public access to this repository is restricted. 
+
+Please email us to request permission if code is needed.
+
+<br>
 
 ## News :bell:
 - **[Septs. 22 2024]** Public access to this repository is restricted.
@@ -107,6 +111,5 @@ If you find this repository useful, please give us stars and use the following B
 This project is released under the MIT license. Please see the LICENSE file for more information.
 
 ## Contact me
-
 If you have any questions about the code, please contact Xiongjun Guan gxj21@mails.tsinghua.edu.cn
 
